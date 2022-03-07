@@ -1,6 +1,6 @@
 # Experimenting with Gitbook:  
 
-This Gitbook contains my notes on the course [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn).
+This gitbook contains ideas on for how we can leverage Gitbooks!
 
 ## What a gitbook can contain
 
